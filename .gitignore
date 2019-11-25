@@ -1,0 +1,4 @@
+# ignore file sass-cache
+.sass-cache/
+
+prepros-6.config
